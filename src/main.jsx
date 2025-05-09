@@ -19,6 +19,8 @@ root.render(
       <button>Hola Mundo3</button>
       <button>Hola Mundo2</button>
       <button>Hola Mundo4</button>
+      <button>Hola Mundo6</button>
+
 
     </React.Fragment>
 );
