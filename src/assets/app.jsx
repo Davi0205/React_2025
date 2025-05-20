@@ -2,7 +2,7 @@ export function App() {
   return (
     <article>
         <header>
-            <img src="/imagenes/Navia_Avatar.jpg" alt="" />
+            <img src="/imagenes/Navia_Avatar.jpg" alt="AVATAR DE NAVIA" />
             <div>
                 <strong>Navia</strong>
                 <span>@Navia</span>
